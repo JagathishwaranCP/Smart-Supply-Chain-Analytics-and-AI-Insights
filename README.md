@@ -16,12 +16,8 @@ Automated Reporting: Generate scheduled reports for stakeholders with key metric
 
 # Technology Stack
 
-Frontend: React.js, Chart.js/D3.js for data visualization
-Backend: Node.js/Express or Python/Django
-Database: PostgreSQL/MongoDB
-Real-time Updates: WebSocket/Socket.io
-Maps Integration: Google Maps API or Mapbox
-Authentication: JWT-based secure authentication
+Database: Microsoft SQL Server
+Visual: Power BI
 
 # Use Cases
 
