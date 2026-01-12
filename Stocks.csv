@@ -1,0 +1,885 @@
+Sub_Category,Country,Region,State,Hub_ID,Stock
+Bookcases,United States,Central,Texas,HID300,23810
+Chairs,United States,Central,Texas,HID300,19778
+Labels,United States,Central,Texas,HID300,20660
+Tables,United States,Central,Texas,HID300,22786
+Storage,United States,Central,Texas,HID300,12846
+Furnishings,United States,Central,Texas,HID300,23157
+Art,United States,Central,Texas,HID300,18896
+Phones,United States,Central,Texas,HID300,15712
+Binders,United States,Central,Texas,HID300,22585
+Appliances,United States,Central,Texas,HID300,18213
+Paper,United States,Central,Texas,HID300,16527
+Accessories,United States,Central,Texas,HID300,14019
+Envelopes,United States,Central,Texas,HID300,16811
+Fasteners,United States,Central,Texas,HID300,20664
+Supplies,United States,Central,Texas,HID300,23005
+Machines,United States,Central,Texas,HID300,12079
+Copiers,United States,Central,Texas,HID300,20645
+Bookcases,United States,Central,Tennessee,HID301,13919
+Chairs,United States,Central,Tennessee,HID301,23504
+Labels,United States,Central,Tennessee,HID301,13917
+Tables,United States,Central,Tennessee,HID301,13516
+Storage,United States,Central,Tennessee,HID301,14821
+Furnishings,United States,Central,Tennessee,HID301,23436
+Art,United States,Central,Tennessee,HID301,20481
+Phones,United States,Central,Tennessee,HID301,13808
+Binders,United States,Central,Tennessee,HID301,12994
+Appliances,United States,Central,Tennessee,HID301,13206
+Paper,United States,Central,Tennessee,HID301,18583
+Accessories,United States,Central,Tennessee,HID301,13466
+Envelopes,United States,Central,Tennessee,HID301,13135
+Fasteners,United States,Central,Tennessee,HID301,13394
+Supplies,United States,Central,Tennessee,HID301,20185
+Machines,United States,Central,Tennessee,HID301,23715
+Copiers,United States,Central,Tennessee,HID301,21943
+Bookcases,United States,Central,Alabama,HID302,23869
+Chairs,United States,Central,Alabama,HID302,21446
+Labels,United States,Central,Alabama,HID302,23723
+Tables,United States,Central,Alabama,HID302,21388
+Storage,United States,Central,Alabama,HID302,17762
+Furnishings,United States,Central,Alabama,HID302,18581
+Art,United States,Central,Alabama,HID302,12730
+Phones,United States,Central,Alabama,HID302,16830
+Binders,United States,Central,Alabama,HID302,14086
+Appliances,United States,Central,Alabama,HID302,15769
+Paper,United States,Central,Alabama,HID302,20757
+Accessories,United States,Central,Alabama,HID302,13515
+Envelopes,United States,Central,Alabama,HID302,19545
+Fasteners,United States,Central,Alabama,HID302,15959
+Supplies,United States,Central,Alabama,HID302,18850
+Machines,United States,Central,Alabama,HID302,23554
+Copiers,United States,Central,Alabama,HID302,22709
+Bookcases,United States,Central,North Carolina,HID303,13338
+Chairs,United States,Central,North Carolina,HID303,15632
+Labels,United States,Central,North Carolina,HID303,16667
+Tables,United States,Central,North Carolina,HID303,9000
+Storage,United States,Central,North Carolina,HID303,13082
+Furnishings,United States,Central,North Carolina,HID303,23934
+Art,United States,Central,North Carolina,HID303,13606
+Phones,United States,Central,North Carolina,HID303,14083
+Binders,United States,Central,North Carolina,HID303,14622
+Appliances,United States,Central,North Carolina,HID303,12565
+Paper,United States,Central,North Carolina,HID303,16485
+Accessories,United States,Central,North Carolina,HID303,15569
+Envelopes,United States,Central,North Carolina,HID303,13403
+Fasteners,United States,Central,North Carolina,HID303,17705
+Supplies,United States,Central,North Carolina,HID303,19376
+Machines,United States,Central,North Carolina,HID303,22420
+Copiers,United States,Central,North Carolina,HID303,20147
+Bookcases,United States,Central,Ohio,HID304,12651
+Chairs,United States,Central,Ohio,HID304,16263
+Labels,United States,Central,Ohio,HID304,15770
+Tables,United States,Central,Ohio,HID304,19745
+Storage,United States,Central,Ohio,HID304,23766
+Furnishings,United States,Central,Ohio,HID304,13526
+Art,United States,Central,Ohio,HID304,16570
+Phones,United States,Central,Ohio,HID304,18654
+Binders,United States,Central,Ohio,HID304,14155
+Appliances,United States,Central,Ohio,HID304,20924
+Paper,United States,Central,Ohio,HID304,22853
+Accessories,United States,Central,Ohio,HID304,12885
+Envelopes,United States,Central,Ohio,HID304,23264
+Fasteners,United States,Central,Ohio,HID304,13136
+Supplies,United States,Central,Ohio,HID304,15385
+Machines,United States,Central,Ohio,HID304,22654
+Copiers,United States,Central,Ohio,HID304,20938
+Bookcases,United States,Central,Washington,HID305,20472
+Chairs,United States,Central,Washington,HID305,20873
+Labels,United States,Central,Washington,HID305,12713
+Tables,United States,Central,Washington,HID305,13662
+Storage,United States,Central,Washington,HID305,16532
+Furnishings,United States,Central,Washington,HID305,12239
+Art,United States,Central,Washington,HID305,12766
+Phones,United States,Central,Washington,HID305,20723
+Binders,United States,Central,Washington,HID305,16138
+Appliances,United States,Central,Washington,HID305,12834
+Paper,United States,Central,Washington,HID305,13552
+Accessories,United States,Central,Washington,HID305,13054
+Envelopes,United States,Central,Washington,HID305,17114
+Fasteners,United States,Central,Washington,HID305,17593
+Supplies,United States,Central,Washington,HID305,13490
+Machines,United States,Central,Washington,HID305,23580
+Copiers,United States,Central,Washington,HID305,22811
+Bookcases,United States,Central,Mississippi,HID306,14092
+Chairs,United States,Central,Mississippi,HID306,13357
+Labels,United States,Central,Mississippi,HID306,21177
+Tables,United States,Central,Mississippi,HID306,12777
+Storage,United States,Central,Mississippi,HID306,15148
+Furnishings,United States,Central,Mississippi,HID306,17772
+Art,United States,Central,Mississippi,HID306,22047
+Phones,United States,Central,Mississippi,HID306,22937
+Binders,United States,Central,Mississippi,HID306,16602
+Appliances,United States,Central,Mississippi,HID306,19855
+Paper,United States,Central,Mississippi,HID306,21133
+Accessories,United States,Central,Mississippi,HID306,19283
+Envelopes,United States,Central,Mississippi,HID306,12045
+Fasteners,United States,Central,Mississippi,HID306,16431
+Supplies,United States,Central,Mississippi,HID306,18138
+Machines,United States,Central,Mississippi,HID306,17369
+Copiers,United States,Central,Mississippi,HID306,20270
+Bookcases,United States,Central,Arkansas,HID307,14891
+Chairs,United States,Central,Arkansas,HID307,18585
+Labels,United States,Central,Arkansas,HID307,22208
+Tables,United States,Central,Arkansas,HID307,15365
+Storage,United States,Central,Arkansas,HID307,20907
+Furnishings,United States,Central,Arkansas,HID307,19545
+Art,United States,Central,Arkansas,HID307,20098
+Phones,United States,Central,Arkansas,HID307,17127
+Binders,United States,Central,Arkansas,HID307,13767
+Appliances,United States,Central,Arkansas,HID307,22154
+Paper,United States,Central,Arkansas,HID307,16386
+Accessories,United States,Central,Arkansas,HID307,12133
+Envelopes,United States,Central,Arkansas,HID307,21518
+Fasteners,United States,Central,Arkansas,HID307,12668
+Supplies,United States,Central,Arkansas,HID307,12003
+Machines,United States,Central,Arkansas,HID307,19091
+Copiers,United States,Central,Arkansas,HID307,19343
+Bookcases,United States,Central,Montana,HID308,20462
+Chairs,United States,Central,Montana,HID308,20299
+Labels,United States,Central,Montana,HID308,14607
+Tables,United States,Central,Montana,HID308,13255
+Storage,United States,Central,Montana,HID308,20188
+Furnishings,United States,Central,Montana,HID308,20859
+Art,United States,Central,Montana,HID308,20493
+Phones,United States,Central,Montana,HID308,21655
+Binders,United States,Central,Montana,HID308,20149
+Appliances,United States,Central,Montana,HID308,18836
+Paper,United States,Central,Montana,HID308,19349
+Accessories,United States,Central,Montana,HID308,19088
+Envelopes,United States,Central,Montana,HID308,20026
+Fasteners,United States,Central,Montana,HID308,23929
+Supplies,United States,Central,Montana,HID308,20865
+Machines,United States,Central,Montana,HID308,23090
+Copiers,United States,Central,Montana,HID308,13839
+Bookcases,United States,Central,New Hampshire,HID309,19448
+Chairs,United States,Central,New Hampshire,HID309,23906
+Labels,United States,Central,New Hampshire,HID309,15154
+Tables,United States,Central,New Hampshire,HID309,13032
+Storage,United States,Central,New Hampshire,HID309,23797
+Furnishings,United States,Central,New Hampshire,HID309,15179
+Art,United States,Central,New Hampshire,HID309,15487
+Phones,United States,Central,New Hampshire,HID309,20355
+Binders,United States,Central,New Hampshire,HID309,12320
+Appliances,United States,Central,New Hampshire,HID309,16711
+Paper,United States,Central,New Hampshire,HID309,17898
+Accessories,United States,Central,New Hampshire,HID309,18298
+Envelopes,United States,Central,New Hampshire,HID309,23807
+Fasteners,United States,Central,New Hampshire,HID309,14397
+Supplies,United States,Central,New Hampshire,HID309,15664
+Machines,United States,Central,New Hampshire,HID309,13558
+Copiers,United States,Central,New Hampshire,HID309,21187
+Bookcases,United States,Central,Maryland,HID310,16573
+Chairs,United States,Central,Maryland,HID310,21666
+Labels,United States,Central,Maryland,HID310,22577
+Tables,United States,Central,Maryland,HID310,13640
+Storage,United States,Central,Maryland,HID310,22763
+Furnishings,United States,Central,Maryland,HID310,23945
+Art,United States,Central,Maryland,HID310,21282
+Phones,United States,Central,Maryland,HID310,15331
+Binders,United States,Central,Maryland,HID310,17258
+Appliances,United States,Central,Maryland,HID310,13728
+Paper,United States,Central,Maryland,HID310,16379
+Accessories,United States,Central,Maryland,HID310,22253
+Envelopes,United States,Central,Maryland,HID310,18060
+Fasteners,United States,Central,Maryland,HID310,22936
+Supplies,United States,Central,Maryland,HID310,21690
+Machines,United States,Central,Maryland,HID310,15096
+Copiers,United States,Central,Maryland,HID310,19106
+Bookcases,United States,Central,District of Columbia,HID311,13769
+Chairs,United States,Central,District of Columbia,HID311,19660
+Labels,United States,Central,District of Columbia,HID311,13732
+Tables,United States,Central,District of Columbia,HID311,16108
+Storage,United States,Central,District of Columbia,HID311,12467
+Furnishings,United States,Central,District of Columbia,HID311,12773
+Art,United States,Central,District of Columbia,HID311,13706
+Phones,United States,Central,District of Columbia,HID311,15084
+Binders,United States,Central,District of Columbia,HID311,16561
+Appliances,United States,Central,District of Columbia,HID311,19964
+Paper,United States,Central,District of Columbia,HID311,19205
+Accessories,United States,Central,District of Columbia,HID311,14482
+Envelopes,United States,Central,District of Columbia,HID311,14627
+Fasteners,United States,Central,District of Columbia,HID311,15455
+Supplies,United States,Central,District of Columbia,HID311,22264
+Machines,United States,Central,District of Columbia,HID311,19618
+Copiers,United States,Central,District of Columbia,HID311,12711
+Bookcases,United States,Central,Kansas,HID312,20610
+Chairs,United States,Central,Kansas,HID312,13171
+Labels,United States,Central,Kansas,HID312,19009
+Tables,United States,Central,Kansas,HID312,21286
+Storage,United States,Central,Kansas,HID312,20407
+Furnishings,United States,Central,Kansas,HID312,12432
+Art,United States,Central,Kansas,HID312,16557
+Phones,United States,Central,Kansas,HID312,18467
+Binders,United States,Central,Kansas,HID312,23708
+Appliances,United States,Central,Kansas,HID312,16044
+Paper,United States,Central,Kansas,HID312,23075
+Accessories,United States,Central,Kansas,HID312,21144
+Envelopes,United States,Central,Kansas,HID312,15071
+Fasteners,United States,Central,Kansas,HID312,15295
+Supplies,United States,Central,Kansas,HID312,21683
+Machines,United States,Central,Kansas,HID312,15382
+Copiers,United States,Central,Kansas,HID312,16731
+Bookcases,United States,Central,Vermont,HID313,16458
+Chairs,United States,Central,Vermont,HID313,14829
+Labels,United States,Central,Vermont,HID313,23587
+Tables,United States,Central,Vermont,HID313,23433
+Storage,United States,Central,Vermont,HID313,18455
+Furnishings,United States,Central,Vermont,HID313,17095
+Art,United States,Central,Vermont,HID313,15726
+Phones,United States,Central,Vermont,HID313,14039
+Binders,United States,Central,Vermont,HID313,21023
+Appliances,United States,Central,Vermont,HID313,16552
+Paper,United States,Central,Vermont,HID313,22822
+Accessories,United States,Central,Vermont,HID313,12238
+Envelopes,United States,Central,Vermont,HID313,15348
+Fasteners,United States,Central,Vermont,HID313,22206
+Supplies,United States,Central,Vermont,HID313,15616
+Machines,United States,Central,Vermont,HID313,23976
+Copiers,United States,Central,Vermont,HID313,23634
+Bookcases,United States,Central,Idaho,HID314,20756
+Chairs,United States,Central,Idaho,HID314,14844
+Labels,United States,Central,Idaho,HID314,22870
+Tables,United States,Central,Idaho,HID314,16234
+Storage,United States,Central,Idaho,HID314,18022
+Furnishings,United States,Central,Idaho,HID314,19225
+Art,United States,Central,Idaho,HID314,18627
+Phones,United States,Central,Idaho,HID314,22239
+Binders,United States,Central,Idaho,HID314,20458
+Appliances,United States,Central,Idaho,HID314,12874
+Paper,United States,Central,Idaho,HID314,14397
+Accessories,United States,Central,Idaho,HID314,15812
+Envelopes,United States,Central,Idaho,HID314,22537
+Fasteners,United States,Central,Idaho,HID314,13761
+Supplies,United States,Central,Idaho,HID314,20559
+Machines,United States,Central,Idaho,HID314,23558
+Copiers,United States,Central,Idaho,HID314,14534
+Bookcases,United States,Central,North Dakota,HID315,18990
+Chairs,United States,Central,North Dakota,HID315,20275
+Labels,United States,Central,North Dakota,HID315,18451
+Tables,United States,Central,North Dakota,HID315,22561
+Storage,United States,Central,North Dakota,HID315,23755
+Furnishings,United States,Central,North Dakota,HID315,18954
+Art,United States,Central,North Dakota,HID315,12517
+Phones,United States,Central,North Dakota,HID315,15541
+Binders,United States,Central,North Dakota,HID315,20227
+Appliances,United States,Central,North Dakota,HID315,13822
+Paper,United States,Central,North Dakota,HID315,18206
+Accessories,United States,Central,North Dakota,HID315,17782
+Envelopes,United States,Central,North Dakota,HID315,21895
+Fasteners,United States,Central,North Dakota,HID315,19914
+Supplies,United States,Central,North Dakota,HID315,12939
+Machines,United States,Central,North Dakota,HID315,16665
+Copiers,United States,Central,North Dakota,HID315,19355
+Bookcases,United States,Central,Wyoming,HID316,21361
+Chairs,United States,Central,Wyoming,HID316,20098
+Labels,United States,Central,Wyoming,HID316,13469
+Tables,United States,Central,Wyoming,HID316,12351
+Storage,United States,Central,Wyoming,HID316,22964
+Furnishings,United States,Central,Wyoming,HID316,22572
+Art,United States,Central,Wyoming,HID316,22359
+Phones,United States,Central,Wyoming,HID316,20872
+Binders,United States,Central,Wyoming,HID316,23114
+Appliances,United States,Central,Wyoming,HID316,17760
+Paper,United States,Central,Wyoming,HID316,13370
+Accessories,United States,Central,Wyoming,HID316,18011
+Envelopes,United States,Central,Wyoming,HID316,18925
+Fasteners,United States,Central,Wyoming,HID316,23663
+Supplies,United States,Central,Wyoming,HID316,14261
+Machines,United States,Central,Wyoming,HID316,12643
+Copiers,United States,Central,Wyoming,HID316,16915
+Bookcases,United States,East,Pennsylvania,HID317,17086
+Chairs,United States,East,Pennsylvania,HID317,15272
+Labels,United States,East,Pennsylvania,HID317,21961
+Tables,United States,East,Pennsylvania,HID317,23635
+Storage,United States,East,Pennsylvania,HID317,17020
+Furnishings,United States,East,Pennsylvania,HID317,15441
+Art,United States,East,Pennsylvania,HID317,17361
+Phones,United States,East,Pennsylvania,HID317,23919
+Binders,United States,East,Pennsylvania,HID317,17860
+Appliances,United States,East,Pennsylvania,HID317,15084
+Paper,United States,East,Pennsylvania,HID317,17961
+Accessories,United States,East,Pennsylvania,HID317,20323
+Envelopes,United States,East,Pennsylvania,HID317,14575
+Fasteners,United States,East,Pennsylvania,HID317,17903
+Supplies,United States,East,Pennsylvania,HID317,22121
+Machines,United States,East,Pennsylvania,HID317,13158
+Copiers,United States,East,Pennsylvania,HID317,16240
+Bookcases,United States,East,Oklahoma,HID318,12375
+Chairs,United States,East,Oklahoma,HID318,13781
+Labels,United States,East,Oklahoma,HID318,12814
+Tables,United States,East,Oklahoma,HID318,13012
+Storage,United States,East,Oklahoma,HID318,22703
+Furnishings,United States,East,Oklahoma,HID318,23855
+Art,United States,East,Oklahoma,HID318,21316
+Phones,United States,East,Oklahoma,HID318,21584
+Binders,United States,East,Oklahoma,HID318,16134
+Appliances,United States,East,Oklahoma,HID318,15258
+Paper,United States,East,Oklahoma,HID318,23011
+Accessories,United States,East,Oklahoma,HID318,12082
+Envelopes,United States,East,Oklahoma,HID318,22307
+Fasteners,United States,East,Oklahoma,HID318,23759
+Supplies,United States,East,Oklahoma,HID318,17658
+Machines,United States,East,Oklahoma,HID318,17055
+Copiers,United States,East,Oklahoma,HID318,15931
+Bookcases,United States,East,New Jersey,HID319,18892
+Chairs,United States,East,New Jersey,HID319,13885
+Labels,United States,East,New Jersey,HID319,19442
+Tables,United States,East,New Jersey,HID319,21950
+Storage,United States,East,New Jersey,HID319,15103
+Furnishings,United States,East,New Jersey,HID319,13643
+Art,United States,East,New Jersey,HID319,20095
+Phones,United States,East,New Jersey,HID319,15967
+Binders,United States,East,New Jersey,HID319,15248
+Appliances,United States,East,New Jersey,HID319,17581
+Paper,United States,East,New Jersey,HID319,16903
+Accessories,United States,East,New Jersey,HID319,16793
+Envelopes,United States,East,New Jersey,HID319,12948
+Fasteners,United States,East,New Jersey,HID319,18873
+Supplies,United States,East,New Jersey,HID319,19925
+Machines,United States,East,New Jersey,HID319,13685
+Copiers,United States,East,New Jersey,HID319,23775
+Bookcases,United States,East,Massachusetts,HID320,15416
+Chairs,United States,East,Massachusetts,HID320,16550
+Labels,United States,East,Massachusetts,HID320,18331
+Tables,United States,East,Massachusetts,HID320,17646
+Storage,United States,East,Massachusetts,HID320,19913
+Furnishings,United States,East,Massachusetts,HID320,22587
+Art,United States,East,Massachusetts,HID320,18056
+Phones,United States,East,Massachusetts,HID320,13633
+Binders,United States,East,Massachusetts,HID320,12344
+Appliances,United States,East,Massachusetts,HID320,20309
+Paper,United States,East,Massachusetts,HID320,16496
+Accessories,United States,East,Massachusetts,HID320,16621
+Envelopes,United States,East,Massachusetts,HID320,15069
+Fasteners,United States,East,Massachusetts,HID320,19535
+Supplies,United States,East,Massachusetts,HID320,22962
+Machines,United States,East,Massachusetts,HID320,12545
+Copiers,United States,East,Massachusetts,HID320,23094
+Bookcases,United States,East,Georgia,HID321,21255
+Chairs,United States,East,Georgia,HID321,14560
+Labels,United States,East,Georgia,HID321,23757
+Tables,United States,East,Georgia,HID321,17073
+Storage,United States,East,Georgia,HID321,18595
+Furnishings,United States,East,Georgia,HID321,19959
+Art,United States,East,Georgia,HID321,12822
+Phones,United States,East,Georgia,HID321,23228
+Binders,United States,East,Georgia,HID321,12591
+Appliances,United States,East,Georgia,HID321,17598
+Paper,United States,East,Georgia,HID321,14244
+Accessories,United States,East,Georgia,HID321,23059
+Envelopes,United States,East,Georgia,HID321,15399
+Fasteners,United States,East,Georgia,HID321,18475
+Supplies,United States,East,Georgia,HID321,18613
+Machines,United States,East,Georgia,HID321,19006
+Copiers,United States,East,Georgia,HID321,19072
+Bookcases,United States,East,Nevada,HID322,14596
+Chairs,United States,East,Nevada,HID322,17905
+Labels,United States,East,Nevada,HID322,14259
+Tables,United States,East,Nevada,HID322,17482
+Storage,United States,East,Nevada,HID322,14108
+Furnishings,United States,East,Nevada,HID322,13615
+Art,United States,East,Nevada,HID322,22656
+Phones,United States,East,Nevada,HID322,21792
+Binders,United States,East,Nevada,HID322,20388
+Appliances,United States,East,Nevada,HID322,21090
+Paper,United States,East,Nevada,HID322,13680
+Accessories,United States,East,Nevada,HID322,18233
+Envelopes,United States,East,Nevada,HID322,15767
+Fasteners,United States,East,Nevada,HID322,22696
+Supplies,United States,East,Nevada,HID322,15603
+Machines,United States,East,Nevada,HID322,22968
+Copiers,United States,East,Nevada,HID322,19317
+Bookcases,United States,East,Rhode Island,HID323,21782
+Chairs,United States,East,Rhode Island,HID323,14570
+Labels,United States,East,Rhode Island,HID323,22608
+Tables,United States,East,Rhode Island,HID323,13428
+Storage,United States,East,Rhode Island,HID323,19200
+Furnishings,United States,East,Rhode Island,HID323,16159
+Art,United States,East,Rhode Island,HID323,18774
+Phones,United States,East,Rhode Island,HID323,13642
+Binders,United States,East,Rhode Island,HID323,12889
+Appliances,United States,East,Rhode Island,HID323,22832
+Paper,United States,East,Rhode Island,HID323,13564
+Accessories,United States,East,Rhode Island,HID323,15732
+Envelopes,United States,East,Rhode Island,HID323,12564
+Fasteners,United States,East,Rhode Island,HID323,20570
+Supplies,United States,East,Rhode Island,HID323,16285
+Machines,United States,East,Rhode Island,HID323,23157
+Copiers,United States,East,Rhode Island,HID323,19756
+Bookcases,United States,East,Kentucky,HID324,17083
+Chairs,United States,East,Kentucky,HID324,20782
+Labels,United States,East,Kentucky,HID324,19083
+Tables,United States,East,Kentucky,HID324,21936
+Storage,United States,East,Kentucky,HID324,22936
+Furnishings,United States,East,Kentucky,HID324,12115
+Art,United States,East,Kentucky,HID324,12377
+Phones,United States,East,Kentucky,HID324,22138
+Binders,United States,East,Kentucky,HID324,19723
+Appliances,United States,East,Kentucky,HID324,21731
+Paper,United States,East,Kentucky,HID324,22800
+Accessories,United States,East,Kentucky,HID324,20274
+Envelopes,United States,East,Kentucky,HID324,20747
+Fasteners,United States,East,Kentucky,HID324,17337
+Supplies,United States,East,Kentucky,HID324,19002
+Machines,United States,East,Kentucky,HID324,13260
+Copiers,United States,East,Kentucky,HID324,18532
+Bookcases,United States,East,Mississippi,HID325,18218
+Chairs,United States,East,Mississippi,HID325,17696
+Labels,United States,East,Mississippi,HID325,16542
+Tables,United States,East,Mississippi,HID325,22544
+Storage,United States,East,Mississippi,HID325,22829
+Furnishings,United States,East,Mississippi,HID325,18683
+Art,United States,East,Mississippi,HID325,16556
+Phones,United States,East,Mississippi,HID325,21668
+Binders,United States,East,Mississippi,HID325,23099
+Appliances,United States,East,Mississippi,HID325,17102
+Paper,United States,East,Mississippi,HID325,18564
+Accessories,United States,East,Mississippi,HID325,23966
+Envelopes,United States,East,Mississippi,HID325,23147
+Fasteners,United States,East,Mississippi,HID325,13193
+Supplies,United States,East,Mississippi,HID325,22130
+Machines,United States,East,Mississippi,HID325,17905
+Copiers,United States,East,Mississippi,HID325,23802
+Bookcases,United States,East,West Virginia,HID326,17837
+Chairs,United States,East,West Virginia,HID326,18376
+Labels,United States,East,West Virginia,HID326,19149
+Tables,United States,East,West Virginia,HID326,23508
+Storage,United States,East,West Virginia,HID326,20682
+Furnishings,United States,East,West Virginia,HID326,15368
+Art,United States,East,West Virginia,HID326,13197
+Phones,United States,East,West Virginia,HID326,16418
+Binders,United States,East,West Virginia,HID326,14593
+Appliances,United States,East,West Virginia,HID326,14055
+Paper,United States,East,West Virginia,HID326,16909
+Accessories,United States,East,West Virginia,HID326,19659
+Envelopes,United States,East,West Virginia,HID326,12136
+Fasteners,United States,East,West Virginia,HID326,21231
+Supplies,United States,East,West Virginia,HID326,17749
+Machines,United States,East,West Virginia,HID326,19918
+Copiers,United States,East,West Virginia,HID326,19274
+Bookcases,United States,South,Kentucky,HID327,20859
+Chairs,United States,South,Kentucky,HID327,12740
+Labels,United States,South,Kentucky,HID327,19839
+Tables,United States,South,Kentucky,HID327,22238
+Storage,United States,South,Kentucky,HID327,19647
+Furnishings,United States,South,Kentucky,HID327,22084
+Art,United States,South,Kentucky,HID327,12019
+Phones,United States,South,Kentucky,HID327,15713
+Binders,United States,South,Kentucky,HID327,23401
+Appliances,United States,South,Kentucky,HID327,22093
+Paper,United States,South,Kentucky,HID327,14792
+Accessories,United States,South,Kentucky,HID327,14094
+Envelopes,United States,South,Kentucky,HID327,14075
+Fasteners,United States,South,Kentucky,HID327,20690
+Supplies,United States,South,Kentucky,HID327,23016
+Machines,United States,South,Kentucky,HID327,13464
+Copiers,United States,South,Kentucky,HID327,23092
+Bookcases,United States,South,California,HID328,20940
+Chairs,United States,South,California,HID328,17865
+Labels,United States,South,California,HID328,18612
+Tables,United States,South,California,HID328,20946
+Storage,United States,South,California,HID328,23738
+Furnishings,United States,South,California,HID328,15397
+Art,United States,South,California,HID328,16054
+Phones,United States,South,California,HID328,15800
+Binders,United States,South,California,HID328,22604
+Appliances,United States,South,California,HID328,16179
+Paper,United States,South,California,HID328,14069
+Accessories,United States,South,California,HID328,14574
+Envelopes,United States,South,California,HID328,19925
+Fasteners,United States,South,California,HID328,18954
+Supplies,United States,South,California,HID328,17345
+Machines,United States,South,California,HID328,14149
+Copiers,United States,South,California,HID328,12764
+Bookcases,United States,South,Florida,HID329,19254
+Chairs,United States,South,Florida,HID329,16292
+Labels,United States,South,Florida,HID329,15414
+Tables,United States,South,Florida,HID329,12224
+Storage,United States,South,Florida,HID329,14211
+Furnishings,United States,South,Florida,HID329,16248
+Art,United States,South,Florida,HID329,18608
+Phones,United States,South,Florida,HID329,21807
+Binders,United States,South,Florida,HID329,14249
+Appliances,United States,South,Florida,HID329,23685
+Paper,United States,South,Florida,HID329,15794
+Accessories,United States,South,Florida,HID329,22649
+Envelopes,United States,South,Florida,HID329,17209
+Fasteners,United States,South,Florida,HID329,19302
+Supplies,United States,South,Florida,HID329,16540
+Machines,United States,South,Florida,HID329,17867
+Copiers,United States,South,Florida,HID329,18470
+Bookcases,United States,South,Washington,HID330,16410
+Chairs,United States,South,Washington,HID330,19959
+Labels,United States,South,Washington,HID330,20236
+Tables,United States,South,Washington,HID330,22227
+Storage,United States,South,Washington,HID330,13143
+Furnishings,United States,South,Washington,HID330,23169
+Art,United States,South,Washington,HID330,13287
+Phones,United States,South,Washington,HID330,12881
+Binders,United States,South,Washington,HID330,20400
+Appliances,United States,South,Washington,HID330,15336
+Paper,United States,South,Washington,HID330,19918
+Accessories,United States,South,Washington,HID330,12953
+Envelopes,United States,South,Washington,HID330,14419
+Fasteners,United States,South,Washington,HID330,19582
+Supplies,United States,South,Washington,HID330,18313
+Machines,United States,South,Washington,HID330,14956
+Copiers,United States,South,Washington,HID330,21214
+Bookcases,United States,South,Texas,HID331,19243
+Chairs,United States,South,Texas,HID331,21831
+Labels,United States,South,Texas,HID331,12211
+Tables,United States,South,Texas,HID331,22197
+Storage,United States,South,Texas,HID331,13744
+Furnishings,United States,South,Texas,HID331,17139
+Art,United States,South,Texas,HID331,22047
+Phones,United States,South,Texas,HID331,17941
+Binders,United States,South,Texas,HID331,22977
+Appliances,United States,South,Texas,HID331,20493
+Paper,United States,South,Texas,HID331,17653
+Accessories,United States,South,Texas,HID331,16187
+Envelopes,United States,South,Texas,HID331,12976
+Fasteners,United States,South,Texas,HID331,13184
+Supplies,United States,South,Texas,HID331,23622
+Machines,United States,South,Texas,HID331,23814
+Copiers,United States,South,Texas,HID331,21900
+Bookcases,United States,South,Delaware,HID332,19037
+Chairs,United States,South,Delaware,HID332,15256
+Labels,United States,South,Delaware,HID332,20978
+Tables,United States,South,Delaware,HID332,22672
+Storage,United States,South,Delaware,HID332,22792
+Furnishings,United States,South,Delaware,HID332,16890
+Art,United States,South,Delaware,HID332,13718
+Phones,United States,South,Delaware,HID332,21317
+Binders,United States,South,Delaware,HID332,13622
+Appliances,United States,South,Delaware,HID332,19266
+Paper,United States,South,Delaware,HID332,23674
+Accessories,United States,South,Delaware,HID332,20329
+Envelopes,United States,South,Delaware,HID332,21577
+Fasteners,United States,South,Delaware,HID332,13133
+Supplies,United States,South,Delaware,HID332,22375
+Machines,United States,South,Delaware,HID332,16708
+Copiers,United States,South,Delaware,HID332,17372
+Bookcases,United States,South,South Dakota,HID333,14215
+Chairs,United States,South,South Dakota,HID333,14947
+Labels,United States,South,South Dakota,HID333,22279
+Tables,United States,South,South Dakota,HID333,21373
+Storage,United States,South,South Dakota,HID333,15886
+Furnishings,United States,South,South Dakota,HID333,12595
+Art,United States,South,South Dakota,HID333,12594
+Phones,United States,South,South Dakota,HID333,19547
+Binders,United States,South,South Dakota,HID333,12443
+Appliances,United States,South,South Dakota,HID333,22261
+Paper,United States,South,South Dakota,HID333,16504
+Accessories,United States,South,South Dakota,HID333,12093
+Envelopes,United States,South,South Dakota,HID333,23385
+Fasteners,United States,South,South Dakota,HID333,21167
+Supplies,United States,South,South Dakota,HID333,21020
+Machines,United States,South,South Dakota,HID333,19868
+Copiers,United States,South,South Dakota,HID333,13505
+Bookcases,United States,West,California,HID334,20700
+Chairs,United States,West,California,HID334,15912
+Labels,United States,West,California,HID334,18398
+Tables,United States,West,California,HID334,17643
+Storage,United States,West,California,HID334,16677
+Furnishings,United States,West,California,HID334,16433
+Art,United States,West,California,HID334,14979
+Phones,United States,West,California,HID334,21517
+Binders,United States,West,California,HID334,14203
+Appliances,United States,West,California,HID334,13812
+Paper,United States,West,California,HID334,16507
+Accessories,United States,West,California,HID334,15637
+Envelopes,United States,West,California,HID334,16608
+Fasteners,United States,West,California,HID334,14621
+Supplies,United States,West,California,HID334,22032
+Machines,United States,West,California,HID334,20343
+Copiers,United States,West,California,HID334,23797
+Bookcases,United States,West,Washington,HID335,12801
+Chairs,United States,West,Washington,HID335,13848
+Labels,United States,West,Washington,HID335,12952
+Tables,United States,West,Washington,HID335,17320
+Storage,United States,West,Washington,HID335,16331
+Furnishings,United States,West,Washington,HID335,13145
+Art,United States,West,Washington,HID335,21307
+Phones,United States,West,Washington,HID335,20238
+Binders,United States,West,Washington,HID335,22218
+Appliances,United States,West,Washington,HID335,12099
+Paper,United States,West,Washington,HID335,16005
+Accessories,United States,West,Washington,HID335,21473
+Envelopes,United States,West,Washington,HID335,21260
+Fasteners,United States,West,Washington,HID335,12076
+Supplies,United States,West,Washington,HID335,23734
+Machines,United States,West,Washington,HID335,14206
+Copiers,United States,West,Washington,HID335,19885
+Bookcases,United States,West,Utah,HID336,14735
+Chairs,United States,West,Utah,HID336,21051
+Labels,United States,West,Utah,HID336,21568
+Tables,United States,West,Utah,HID336,17116
+Storage,United States,West,Utah,HID336,13873
+Furnishings,United States,West,Utah,HID336,18456
+Art,United States,West,Utah,HID336,20855
+Phones,United States,West,Utah,HID336,16045
+Binders,United States,West,Utah,HID336,19883
+Appliances,United States,West,Utah,HID336,22700
+Paper,United States,West,Utah,HID336,22109
+Accessories,United States,West,Utah,HID336,20246
+Envelopes,United States,West,Utah,HID336,21958
+Fasteners,United States,West,Utah,HID336,15648
+Supplies,United States,West,Utah,HID336,13407
+Machines,United States,West,Utah,HID336,19340
+Copiers,United States,West,Utah,HID336,13159
+Bookcases,United States,West,Nebraska,HID337,15940
+Chairs,United States,West,Nebraska,HID337,12729
+Labels,United States,West,Nebraska,HID337,19346
+Tables,United States,West,Nebraska,HID337,23024
+Storage,United States,West,Nebraska,HID337,12944
+Furnishings,United States,West,Nebraska,HID337,19274
+Art,United States,West,Nebraska,HID337,12925
+Phones,United States,West,Nebraska,HID337,23995
+Binders,United States,West,Nebraska,HID337,21434
+Appliances,United States,West,Nebraska,HID337,19908
+Paper,United States,West,Nebraska,HID337,14044
+Accessories,United States,West,Nebraska,HID337,17896
+Envelopes,United States,West,Nebraska,HID337,19462
+Fasteners,United States,West,Nebraska,HID337,23051
+Supplies,United States,West,Nebraska,HID337,12694
+Machines,United States,West,Nebraska,HID337,22228
+Copiers,United States,West,Nebraska,HID337,21311
+Bookcases,United States,West,Pennsylvania,HID338,22674
+Chairs,United States,West,Pennsylvania,HID338,12678
+Labels,United States,West,Pennsylvania,HID338,17571
+Tables,United States,West,Pennsylvania,HID338,16158
+Storage,United States,West,Pennsylvania,HID338,21871
+Furnishings,United States,West,Pennsylvania,HID338,14391
+Art,United States,West,Pennsylvania,HID338,15858
+Phones,United States,West,Pennsylvania,HID338,19479
+Binders,United States,West,Pennsylvania,HID338,17641
+Appliances,United States,West,Pennsylvania,HID338,22987
+Paper,United States,West,Pennsylvania,HID338,17289
+Accessories,United States,West,Pennsylvania,HID338,22209
+Envelopes,United States,West,Pennsylvania,HID338,17314
+Fasteners,United States,West,Pennsylvania,HID338,12029
+Supplies,United States,West,Pennsylvania,HID338,16131
+Machines,United States,West,Pennsylvania,HID338,15142
+Copiers,United States,West,Pennsylvania,HID338,20228
+Bookcases,United States,West,Illinois,HID339,13503
+Chairs,United States,West,Illinois,HID339,18995
+Labels,United States,West,Illinois,HID339,21769
+Tables,United States,West,Illinois,HID339,17753
+Storage,United States,West,Illinois,HID339,19158
+Furnishings,United States,West,Illinois,HID339,22779
+Art,United States,West,Illinois,HID339,16125
+Phones,United States,West,Illinois,HID339,21376
+Binders,United States,West,Illinois,HID339,14452
+Appliances,United States,West,Illinois,HID339,16207
+Paper,United States,West,Illinois,HID339,15886
+Accessories,United States,West,Illinois,HID339,16826
+Envelopes,United States,West,Illinois,HID339,16073
+Fasteners,United States,West,Illinois,HID339,13606
+Supplies,United States,West,Illinois,HID339,17066
+Machines,United States,West,Illinois,HID339,13721
+Copiers,United States,West,Illinois,HID339,12872
+Bookcases,United States,West,Minnesota,HID340,21423
+Chairs,United States,West,Minnesota,HID340,17433
+Labels,United States,West,Minnesota,HID340,16902
+Tables,United States,West,Minnesota,HID340,16427
+Storage,United States,West,Minnesota,HID340,18624
+Furnishings,United States,West,Minnesota,HID340,21260
+Art,United States,West,Minnesota,HID340,23313
+Phones,United States,West,Minnesota,HID340,14954
+Binders,United States,West,Minnesota,HID340,23059
+Appliances,United States,West,Minnesota,HID340,19495
+Paper,United States,West,Minnesota,HID340,19915
+Accessories,United States,West,Minnesota,HID340,12251
+Envelopes,United States,West,Minnesota,HID340,23146
+Fasteners,United States,West,Minnesota,HID340,21916
+Supplies,United States,West,Minnesota,HID340,13794
+Machines,United States,West,Minnesota,HID340,15815
+Copiers,United States,West,Minnesota,HID340,18569
+Bookcases,United States,West,Michigan,HID341,15832
+Chairs,United States,West,Michigan,HID341,16954
+Labels,United States,West,Michigan,HID341,16843
+Tables,United States,West,Michigan,HID341,12570
+Storage,United States,West,Michigan,HID341,12059
+Furnishings,United States,West,Michigan,HID341,16509
+Art,United States,West,Michigan,HID341,23268
+Phones,United States,West,Michigan,HID341,22625
+Binders,United States,West,Michigan,HID341,18850
+Appliances,United States,West,Michigan,HID341,17843
+Paper,United States,West,Michigan,HID341,16233
+Accessories,United States,West,Michigan,HID341,16962
+Envelopes,United States,West,Michigan,HID341,16921
+Fasteners,United States,West,Michigan,HID341,12532
+Supplies,United States,West,Michigan,HID341,13440
+Machines,United States,West,Michigan,HID341,14921
+Copiers,United States,West,Michigan,HID341,15907
+Bookcases,United States,West,Delaware,HID342,16133
+Chairs,United States,West,Delaware,HID342,18611
+Labels,United States,West,Delaware,HID342,20171
+Tables,United States,West,Delaware,HID342,22372
+Storage,United States,West,Delaware,HID342,14918
+Furnishings,United States,West,Delaware,HID342,17569
+Art,United States,West,Delaware,HID342,15467
+Phones,United States,West,Delaware,HID342,17406
+Binders,United States,West,Delaware,HID342,18125
+Appliances,United States,West,Delaware,HID342,12729
+Paper,United States,West,Delaware,HID342,12890
+Accessories,United States,West,Delaware,HID342,16188
+Envelopes,United States,West,Delaware,HID342,13165
+Fasteners,United States,West,Delaware,HID342,14942
+Supplies,United States,West,Delaware,HID342,22304
+Machines,United States,West,Delaware,HID342,20754
+Copiers,United States,West,Delaware,HID342,14889
+Bookcases,United States,West,New York,HID343,19828
+Chairs,United States,West,New York,HID343,19025
+Labels,United States,West,New York,HID343,13303
+Tables,United States,West,New York,HID343,20194
+Storage,United States,West,New York,HID343,15443
+Furnishings,United States,West,New York,HID343,17471
+Art,United States,West,New York,HID343,21140
+Phones,United States,West,New York,HID343,13174
+Binders,United States,West,New York,HID343,21664
+Appliances,United States,West,New York,HID343,13522
+Paper,United States,West,New York,HID343,19869
+Accessories,United States,West,New York,HID343,20287
+Envelopes,United States,West,New York,HID343,14870
+Fasteners,United States,West,New York,HID343,22248
+Supplies,United States,West,New York,HID343,22794
+Machines,United States,West,New York,HID343,21075
+Copiers,United States,West,New York,HID343,14888
+Bookcases,United States,West,Alabama,HID344,15407
+Chairs,United States,West,Alabama,HID344,14578
+Labels,United States,West,Alabama,HID344,14865
+Tables,United States,West,Alabama,HID344,12943
+Storage,United States,West,Alabama,HID344,12404
+Furnishings,United States,West,Alabama,HID344,14824
+Art,United States,West,Alabama,HID344,16259
+Phones,United States,West,Alabama,HID344,16268
+Binders,United States,West,Alabama,HID344,15669
+Appliances,United States,West,Alabama,HID344,12929
+Paper,United States,West,Alabama,HID344,18230
+Accessories,United States,West,Alabama,HID344,13743
+Envelopes,United States,West,Alabama,HID344,21325
+Fasteners,United States,West,Alabama,HID344,19053
+Supplies,United States,West,Alabama,HID344,21109
+Machines,United States,West,Alabama,HID344,23289
+Copiers,United States,West,Alabama,HID344,14930
+Bookcases,United States,West,South Carolina,HID345,22837
+Chairs,United States,West,South Carolina,HID345,19613
+Labels,United States,West,South Carolina,HID345,20329
+Tables,United States,West,South Carolina,HID345,22320
+Storage,United States,West,South Carolina,HID345,23151
+Furnishings,United States,West,South Carolina,HID345,13091
+Art,United States,West,South Carolina,HID345,12122
+Phones,United States,West,South Carolina,HID345,14284
+Binders,United States,West,South Carolina,HID345,17611
+Appliances,United States,West,South Carolina,HID345,14365
+Paper,United States,West,South Carolina,HID345,15728
+Accessories,United States,West,South Carolina,HID345,8945
+Envelopes,United States,West,South Carolina,HID345,12860
+Fasteners,United States,West,South Carolina,HID345,20440
+Supplies,United States,West,South Carolina,HID345,23143
+Machines,United States,West,South Carolina,HID345,22567
+Copiers,United States,West,South Carolina,HID345,18631
+Bookcases,United States,West,Oregon,HID346,21011
+Chairs,United States,West,Oregon,HID346,21461
+Labels,United States,West,Oregon,HID346,16532
+Tables,United States,West,Oregon,HID346,18612
+Storage,United States,West,Oregon,HID346,23668
+Furnishings,United States,West,Oregon,HID346,12292
+Art,United States,West,Oregon,HID346,19005
+Phones,United States,West,Oregon,HID346,18347
+Binders,United States,West,Oregon,HID346,21970
+Appliances,United States,West,Oregon,HID346,20388
+Paper,United States,West,Oregon,HID346,22944
+Accessories,United States,West,Oregon,HID346,16162
+Envelopes,United States,West,Oregon,HID346,21432
+Fasteners,United States,West,Oregon,HID346,17490
+Supplies,United States,West,Oregon,HID346,13689
+Machines,United States,West,Oregon,HID346,21235
+Copiers,United States,West,Oregon,HID346,12581
+Bookcases,United States,West,Colorado,HID347,19415
+Chairs,United States,West,Colorado,HID347,22582
+Labels,United States,West,Colorado,HID347,7895
+Tables,United States,West,Colorado,HID347,21344
+Storage,United States,West,Colorado,HID347,14748
+Furnishings,United States,West,Colorado,HID347,22849
+Art,United States,West,Colorado,HID347,18653
+Phones,United States,West,Colorado,HID347,21418
+Binders,United States,West,Colorado,HID347,23219
+Appliances,United States,West,Colorado,HID347,16459
+Paper,United States,West,Colorado,HID347,16258
+Accessories,United States,West,Colorado,HID347,14905
+Envelopes,United States,West,Colorado,HID347,12925
+Fasteners,United States,West,Colorado,HID347,14220
+Supplies,United States,West,Colorado,HID347,17260
+Machines,United States,West,Colorado,HID347,17027
+Copiers,United States,West,Colorado,HID347,23067
+Bookcases,United States,West,Oklahoma,HID348,20228
+Chairs,United States,West,Oklahoma,HID348,16453
+Labels,United States,West,Oklahoma,HID348,16700
+Tables,United States,West,Oklahoma,HID348,21883
+Storage,United States,West,Oklahoma,HID348,19705
+Furnishings,United States,West,Oklahoma,HID348,22887
+Art,United States,West,Oklahoma,HID348,16799
+Phones,United States,West,Oklahoma,HID348,17445
+Binders,United States,West,Oklahoma,HID348,15919
+Appliances,United States,West,Oklahoma,HID348,18768
+Paper,United States,West,Oklahoma,HID348,7804
+Accessories,United States,West,Oklahoma,HID348,18291
+Envelopes,United States,West,Oklahoma,HID348,17434
+Fasteners,United States,West,Oklahoma,HID348,16650
+Supplies,United States,West,Oklahoma,HID348,18785
+Machines,United States,West,Oklahoma,HID348,19937
+Copiers,United States,West,Oklahoma,HID348,15932
+Bookcases,United States,West,New Mexico,HID349,22703
+Chairs,United States,West,New Mexico,HID349,15866
+Labels,United States,West,New Mexico,HID349,19413
+Tables,United States,West,New Mexico,HID349,18578
+Storage,United States,West,New Mexico,HID349,14705
+Furnishings,United States,West,New Mexico,HID349,13363
+Art,United States,West,New Mexico,HID349,21933
+Phones,United States,West,New Mexico,HID349,22599
+Binders,United States,West,New Mexico,HID349,20627
+Appliances,United States,West,New Mexico,HID349,19182
+Paper,United States,West,New Mexico,HID349,17347
+Accessories,United States,West,New Mexico,HID349,20097
+Envelopes,United States,West,New Mexico,HID349,13866
+Fasteners,United States,West,New Mexico,HID349,12209
+Supplies,United States,West,New Mexico,HID349,22406
+Machines,United States,West,New Mexico,HID349,18914
+Copiers,United States,West,New Mexico,HID349,23748
+Bookcases,United States,West,Louisiana,HID350,14796
+Chairs,United States,West,Louisiana,HID350,14358
+Labels,United States,West,Louisiana,HID350,19515
+Tables,United States,West,Louisiana,HID350,14045
+Storage,United States,West,Louisiana,HID350,13720
+Furnishings,United States,West,Louisiana,HID350,19597
+Art,United States,West,Louisiana,HID350,13808
+Phones,United States,West,Louisiana,HID350,15100
+Binders,United States,West,Louisiana,HID350,23906
+Appliances,United States,West,Louisiana,HID350,13916
+Paper,United States,West,Louisiana,HID350,21595
+Accessories,United States,West,Louisiana,HID350,19980
+Envelopes,United States,West,Louisiana,HID350,23340
+Fasteners,United States,West,Louisiana,HID350,21635
+Supplies,United States,West,Louisiana,HID350,22012
+Machines,United States,West,Louisiana,HID350,22810
+Copiers,United States,West,Louisiana,HID350,16887
+Bookcases,United States,West,Maine,HID351,19562
+Chairs,United States,West,Maine,HID351,21475
+Labels,United States,West,Maine,HID351,19249
+Tables,United States,West,Maine,HID351,18837
+Storage,United States,West,Maine,HID351,21458
+Furnishings,United States,West,Maine,HID351,22121
+Art,United States,West,Maine,HID351,19974
+Phones,United States,West,Maine,HID351,18325
+Binders,United States,West,Maine,HID351,14517
+Appliances,United States,West,Maine,HID351,19366
+Paper,United States,West,Maine,HID351,9745
+Accessories,United States,West,Maine,HID351,18468
+Envelopes,United States,West,Maine,HID351,20604
+Fasteners,United States,West,Maine,HID351,13346
+Supplies,United States,West,Maine,HID351,23056
+Machines,United States,West,Maine,HID351,20101
+Copiers,United States,West,Maine,HID351,22366
